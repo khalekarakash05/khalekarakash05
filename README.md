@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **akashkhalekar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13DJvpFZ7vvg1ym29tV1uEkdcYjTT78sU/view?usp=sharing](https://drive.google.com/file/d/13DJvpFZ7vvg1ym29tV1uEkdcYjTT78sU/view?usp=sharing)
-
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
