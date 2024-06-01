@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/akashkhalekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashkhalekar" height="30" width="40" /></a>
+  <a href="https://x.com/khalekarakash05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashkhalekar" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/akash-khalekar-239152284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-khalekar-239152284" height="30" width="40" /></a>
   <a href="https://instagram.com/akashkhalekar_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akashkhalekar_03" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/akashkhalekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akashkhalekar" height="30" width="40" /></a>
